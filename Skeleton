@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maladies Cérébrales</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>Bienvenue sur le site des Maladies Cérébrales</h1>
+        <p>Découvrez les détails sur Alzheimer, Parkinson et l'Épilepsie</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="alzheimer.html">Maladie d'Alzheimer</a></li>
+            <li><a href="parkinson.html">Maladie de Parkinson</a></li>
+            <li><a href="epilepsy.html">Épilepsie</a></li>
+        </ul>
+    </nav>
+
+    <!-- Content -->
+    <section id="overview">
+        <h2>Qu'est-ce qu'une maladie cérébrale?</h2>
+        <p>Les maladies cérébrales affectent des millions de personnes à travers le monde. Elles peuvent impacter la mémoire, les mouvements et d'autres fonctions vitales du corps.</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Maladies Cérébrales. Tous droits réservés.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
